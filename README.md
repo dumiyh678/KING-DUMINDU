@@ -42,7 +42,7 @@ Click WA logo to Join Support Group 👇
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dumiyh678/KING-DUMINDU) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DOPEDUMI/WhatsAsena-QR#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DOPEDUMI/WhatsAsena-QR)
   
      </div>
 <br>
