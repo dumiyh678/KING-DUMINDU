@@ -1,14 +1,14 @@
 {
-	"name": "queenmizuki",
+	"name": "KINGDUMIYA",
 	"version": "1.0.0",
-	"description": "Mizuki project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+	"description": "KING-DUMIYH project - a Whatsapp userbot helping to improve your Whatsapp experience.",
 	"main": "./Mizuki/bot.js",
 	"scripts": {
 	  "start": "supervisor -s bot.js"
 	},
 	"repository": {
 	  "type": "git",
-	  "url": "git+https://github.com/MrJoka-Thejaka/Mizuki.git"
+	  "url": "git+https://github.com/dumiyh678/KING-DUMINDU.git"
 	},
 	"keywords": [
 	  "whatsapp",
